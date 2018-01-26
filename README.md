@@ -1,2 +1,3 @@
 # SZAU
-IS in Automation
+AI in Automation
+Academic projects
